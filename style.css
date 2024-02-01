@@ -1,0 +1,88 @@
+form{
+   background-color: rgba(245, 245, 245, 0.214);
+   margin: 2px 10px;
+   border: 3px solid red;3
+
+body{
+    
+    background-color: rgb(121, 98, 98);
+    justify-content: center;
+    text-align: center;
+    border: 2px dotted black;
+    height: 80vh;
+    margin: 50px 20px 50px 20px;
+    padding: 30px 20px 30px 49px;
+}
+ h1{
+    color:rgba(37, 34, 212, 0.916);
+    border: 2px solid red;
+    box-shadow: 2px 3px 2px 3px #292525;
+    margin-left: 70px;
+    margin-right: 60px;
+    text-align: center;
+    background-color: rgba(129, 83, 83, 0.47);
+    font-weight: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ input[type=text]{
+    border: 3px dotted #041026e3;
+    border-radius:75px ;
+    width: 40vh;
+    height: 25px;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 100%;
+    
+ }
+
+ input[type=email]{
+    border: 3px dotted #06132dcd;
+    border-radius:75px ;
+    width: 40vh;
+    height: 25px;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 100%;
+    
+ }
+
+ input[type=password]{
+    border: 3px dotted #081938e1;
+    border-radius:75px ;
+    width: 40vh;
+    height: 25px;
+    padding: 10px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 100%;
+    
+ }
+
+ input[type=radio]{
+   
+    
+    margin: 20px 30px 30px 20px;
+    
+ }
+
+ input[type=button]{
+    padding: 20px 70px 5px ;
+    margin: 8px 7px 8px 9px;
+    color:rgba(4, 37, 4, 0.878);
+    background-color: rgb(145, 24, 24);
+    text-align: center;
+ }
+ b{
+   text-align: left;
+   
+ }
+    
+    
+    
+
+ 
+    
+v
